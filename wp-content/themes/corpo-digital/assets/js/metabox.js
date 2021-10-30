@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("#corpo-digital-ui-tabs").tabs()});

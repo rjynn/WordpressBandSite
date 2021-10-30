@@ -1,0 +1,817 @@
+# Copyright (C) {2021} Firefly Themes
+msgid ""
+msgstr ""
+"Project-Id-Version: FF Multipurpose 1.1.6\n"
+"Report-Msgid-Bugs-To: https://fireflythemes.com/support/\n"
+"POT-Creation-Date: 2021-10-27 06:07:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Firefly Themes <info@fireflythemes.com>\n"
+"Language-Team: Firefly Themes <info@fireflythemes.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: 404.php:24 inc/custom-header.php:126
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:29
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the "
+"links below or a search?"
+msgstr ""
+
+#: comments.php:35
+#. translators: 1: title.
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:28
+msgid "Go to Top"
+msgstr ""
+
+#: functions.php:69 template-parts/navigation/navigation-primary.php:14
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:70
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:168
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:170
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:175
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:177 functions.php:184 functions.php:191
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:182
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:189
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:311
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:312
+msgid "collapse child menu"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/breadcrumb.php:24
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumb.php:26
+#. translators: 1: before text/html, 2: after text/html.
+msgid "%1$s Archive for %2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:28
+#. translators: 1: before text/html, 2: after text/html.
+msgid "%1$sSearch results for: %2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:30
+#. translators: 1: before text/html, 2: after text/html.
+msgid "%1$sPosts tagged %2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:32
+#. translators: 1: before text/html, 2: after text/html.
+msgid "%1$sView all posts by %2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:33
+msgid "%1$sError 404%2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:54 inc/breadcrumb.php:66
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumb.php:90 inc/breadcrumb.php:92 inc/breadcrumb.php:96
+#: inc/breadcrumb.php:100 inc/template-tags.php:267 inc/template-tags.php:269
+msgid "Y"
+msgstr ""
+
+#: inc/breadcrumb.php:92 inc/breadcrumb.php:98
+msgid "F"
+msgstr ""
+
+#: inc/breadcrumb.php:94
+msgid "d"
+msgstr ""
+
+#: inc/breadcrumb.php:182
+#. translators: %s: current page number.
+msgid "Page %s"
+msgstr ""
+
+#: inc/custom-header.php:133 search.php:26
+#. translators: %s: search query.
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:50 inc/customizer/customizer.php:56
+#: inc/customizer/featured-content.php:41 inc/customizer/hero-content.php:41
+#: inc/customizer/portfolio.php:40 inc/customizer/promotional-headline.php:40
+#: inc/customizer/slider.php:49 inc/customizer/team.php:40
+#: inc/customizer/testimonial.php:41 inc/customizer/wwd.php:40
+msgid "Visible On"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:61 inc/customizer/featured-content.php:56
+#: inc/customizer/portfolio.php:51 inc/customizer/team.php:51
+#: inc/customizer/testimonial.php:52 inc/customizer/wwd.php:51
+msgid "Section Top Sub-title"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:72 inc/customizer/featured-content.php:71
+#: inc/customizer/portfolio.php:62 inc/customizer/team.php:62
+#: inc/customizer/testimonial.php:63 inc/customizer/theme-options.php:277
+#: inc/customizer/wwd.php:62
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:83 inc/customizer/featured-content.php:86
+#: inc/customizer/portfolio.php:73 inc/customizer/team.php:73
+#: inc/customizer/testimonial.php:74 inc/customizer/wwd.php:73
+msgid "Section Subtitle"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:93 inc/customizer/featured-content.php:100
+#: inc/customizer/portfolio.php:83 inc/customizer/slider.php:59
+#: inc/customizer/team.php:83 inc/customizer/testimonial.php:84
+#: inc/customizer/wwd.php:83
+msgid "Number"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:111
+#: inc/customizer/featured-content.php:122 inc/customizer/portfolio.php:101
+#: inc/customizer/slider.php:77 inc/customizer/team.php:101
+#: inc/customizer/testimonial.php:102 inc/customizer/wwd.php:104
+msgid "Pick Categories"
+msgstr ""
+
+#: inc/customizer/associate-logo.php:113
+#: inc/customizer/featured-content.php:124 inc/customizer/portfolio.php:103
+#: inc/customizer/slider.php:79 inc/customizer/team.php:103
+#: inc/customizer/testimonial.php:104 inc/customizer/theme-options.php:213
+#: inc/customizer/wwd.php:106
+msgid "--Select--"
+msgstr ""
+
+#: inc/customizer/customizer.php:49
+msgid "Excluding Homepage"
+msgstr ""
+
+#: inc/customizer/customizer.php:65
+msgid "FF Multipurpose Pro Available"
+msgstr ""
+
+#: inc/customizer/header-options.php:37
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/header-options.php:47
+msgid "Header Style"
+msgstr ""
+
+#: inc/customizer/header-options.php:52
+msgid "Header Style One"
+msgstr ""
+
+#: inc/customizer/header-options.php:56
+msgid "Header Style Two"
+msgstr ""
+
+#: inc/customizer/header-options.php:67
+#: template-parts/header/quick-contact.php:22
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/header-options.php:77
+#: template-parts/header/quick-contact.php:18
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer/header-options.php:87
+#: template-parts/header/quick-contact.php:26
+msgid "Address"
+msgstr ""
+
+#: inc/customizer/header-options.php:97
+#: template-parts/header/quick-contact.php:30
+msgid "Open Hours"
+msgstr ""
+
+#: inc/customizer/header-options.php:107
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/header-options.php:117
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer/header-options.php:127
+msgid "Open link in new tab?"
+msgstr ""
+
+#: inc/customizer/hero-content.php:52
+#: inc/customizer/promotional-headline.php:51
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer/hero-content.php:69
+msgid "Top Subtitle"
+msgstr ""
+
+#: inc/customizer/promotional-headline.php:68
+msgid "Overlay on image?"
+msgstr ""
+
+#: inc/customizer/reset.php:43
+msgid "Reset"
+msgstr ""
+
+#: inc/customizer/reset.php:44
+msgid "Caution! This action is irreversible. Press OK to continue."
+msgstr ""
+
+#: inc/customizer/slider.php:94
+msgid "Slider Advance Options"
+msgstr ""
+
+#: inc/customizer/slider.php:106
+msgid "Transition Speed"
+msgstr ""
+
+#: inc/customizer/slider.php:107
+msgid "Duration of transition between slides (in ms)"
+msgstr ""
+
+#: inc/customizer/slider.php:121
+msgid "Transition Effect"
+msgstr ""
+
+#: inc/customizer/slider.php:124
+msgid "Slide"
+msgstr ""
+
+#: inc/customizer/slider.php:125
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer/slider.php:126
+msgid "Cube"
+msgstr ""
+
+#: inc/customizer/slider.php:127
+msgid "Coverflow"
+msgstr ""
+
+#: inc/customizer/slider.php:128
+msgid "Flip"
+msgstr ""
+
+#: inc/customizer/slider.php:138
+msgid "Enable continuous loop mode"
+msgstr ""
+
+#: inc/customizer/slider.php:140
+msgid "Loop"
+msgstr ""
+
+#: inc/customizer/slider.php:150
+msgid "Enable zoom effect on images"
+msgstr ""
+
+#: inc/customizer/slider.php:152
+msgid "Zoom Effect"
+msgstr ""
+
+#: inc/customizer/slider.php:163
+msgid "Autoplay"
+msgstr ""
+
+#: inc/customizer/slider.php:174
+msgid "Autoplay Delay"
+msgstr ""
+
+#: inc/customizer/slider.php:175
+msgid "(in ms)"
+msgstr ""
+
+#: inc/customizer/slider.php:189
+msgid "Pause On Hover"
+msgstr ""
+
+#: inc/customizer/slider.php:200
+msgid "Image Overlay"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:15
+msgid "Sections"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:20
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:21
+msgid "What We Do"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:22
+msgid "Hero Content"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:23
+msgid "Portfolio"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:24
+msgid "Promotion Headline"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:25
+msgid "Team"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:26
+msgid "Testimonials"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:27
+msgid "Featured Content"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:28
+msgid "Associate Logo"
+msgstr ""
+
+#: inc/customizer/theme-options.php:50
+msgid "Continue reading"
+msgstr ""
+
+#: inc/customizer/theme-options.php:57
+msgid "Search..."
+msgstr ""
+
+#: inc/customizer/theme-options.php:75
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:87
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/customizer/theme-options.php:97
+msgid "Display Breadcrumb?"
+msgstr ""
+
+#: inc/customizer/theme-options.php:107
+msgid "Show on homepage?"
+msgstr ""
+
+#: inc/customizer/theme-options.php:120
+msgid "Layouts"
+msgstr ""
+
+#: inc/customizer/theme-options.php:130
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:133
+msgid "Fluid"
+msgstr ""
+
+#: inc/customizer/theme-options.php:134
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/theme-options.php:144
+msgid "Default Layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:147 inc/customizer/theme-options.php:161
+msgid "Right Sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar: Full Width"
+msgstr ""
+
+#: inc/customizer/theme-options.php:158
+msgid "Homepage/Archive Layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:175
+msgid "Excerpt Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:185
+msgid "Excerpt Length (Words)"
+msgstr ""
+
+#: inc/customizer/theme-options.php:195
+msgid "Excerpt More Text"
+msgstr ""
+
+#: inc/customizer/theme-options.php:210
+msgid "Filter Homepage/Blog page posts by following categories"
+msgstr ""
+
+#: inc/customizer/theme-options.php:211
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer/theme-options.php:222
+msgid "Show Home Content/Blog"
+msgstr ""
+
+#: inc/customizer/theme-options.php:235
+#: template-parts/header/header-search.php:9
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/theme-options.php:244
+msgid "Search Text"
+msgstr ""
+
+#: inc/customizer/theme-options.php:257
+msgid "Body(Default)"
+msgstr ""
+
+#: inc/customizer/theme-options.php:261
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer/theme-options.php:265
+msgid "Tagline"
+msgstr ""
+
+#: inc/customizer/theme-options.php:269
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/theme-options.php:273
+msgid "Headings (h1 to h6)"
+msgstr ""
+
+#: inc/customizer/utilities.php:120
+#. translators: 1: Post ID.
+msgid "ID: %s No Title"
+msgstr ""
+
+#: inc/customizer/utilities.php:136 inc/metabox.php:65
+msgid "Disabled"
+msgstr ""
+
+#: inc/customizer/utilities.php:137
+msgid "Homepage / Frontpage"
+msgstr ""
+
+#: inc/customizer/utilities.php:138
+msgid "Entire Site"
+msgstr ""
+
+#: inc/customizer/wwd.php:84
+msgid "Please refresh the customizer page once the number is changed."
+msgstr ""
+
+#: inc/customizer/wwd.php:116 inc/theme-about.php:47
+msgid "Info"
+msgstr ""
+
+#: inc/customizer/wwd.php:118
+#. translators: 1: Link Start html, 2: Link end html.
+msgid ""
+"If you want camera icon, save \"fas fa-camera\". For more classes, check "
+"%1$sthis%2$s"
+msgstr ""
+
+#: inc/customizer/wwd.php:129
+msgid "Icon Class"
+msgstr ""
+
+#: inc/metabox.php:15
+msgid "Select Sidebar"
+msgstr ""
+
+#: inc/metabox.php:17
+msgid "Featured Image"
+msgstr ""
+
+#: inc/metabox.php:30
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/metabox.php:31
+msgid "Optional Sidebar One"
+msgstr ""
+
+#: inc/metabox.php:32
+msgid "Optional Sidebar Two"
+msgstr ""
+
+#: inc/metabox.php:33
+msgid "Optional Sidebar three"
+msgstr ""
+
+#: inc/metabox.php:64
+msgid "Default"
+msgstr ""
+
+#: inc/metabox.php:66
+msgid "Post Thumbnail (470x470)"
+msgstr ""
+
+#: inc/metabox.php:67
+msgid "Slider Image (1920x954)"
+msgstr ""
+
+#: inc/metabox.php:68
+msgid "Original Image Size"
+msgstr ""
+
+#: inc/template-functions.php:277
+#. translators: %s: Name of current post
+msgid "Scroll Up"
+msgstr ""
+
+#: inc/template-tags.php:72
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:77
+#. translators: 1: list of categories.
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:98
+#. translators: 1: list of tags.
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:135
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:152 template-parts/content/content-page.php:44
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:232
+#. translators: 1: before html, 2: after html, 3: list of categories.
+msgid "%1$sPosted in%2$s %3$s"
+msgstr ""
+
+#: inc/template-tags.php:267 inc/template-tags.php:269
+msgid "FF Multipurpose by"
+msgstr ""
+
+#: inc/theme-about.php:19
+msgid "About Theme"
+msgstr ""
+
+#: inc/theme-about.php:45
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: inc/theme-about.php:49
+msgid "Documentation"
+msgstr ""
+
+#: inc/theme-about.php:51
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/theme-about.php:53
+msgid "Demo"
+msgstr ""
+
+#: inc/theme-about.php:55
+msgid "Support"
+msgstr ""
+
+#: inc/theme-about.php:65
+msgid "Secondary menu"
+msgstr ""
+
+#: inc/theme-about.php:66
+msgid "About"
+msgstr ""
+
+#: inc/theme-about.php:68
+msgid "Changelog"
+msgstr ""
+
+#: inc/theme-about.php:80
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/theme-about.php:80
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/theme-about.php:83
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/theme-about.php:83
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/theme-about.php:97
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/theme-about.php:98
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#: inc/theme-about.php:99
+msgid "Customize"
+msgstr ""
+
+#: inc/theme-about.php:103
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/theme-about.php:104
+msgid ""
+"Get genuine support from genuine people. Whether it's customization or "
+"compatibility, our seasoned developers deliver tailored solutions to your "
+"queries."
+msgstr ""
+
+#: inc/theme-about.php:105
+msgid "Support Forum"
+msgstr ""
+
+#: single.php:23
+msgid "Previous"
+msgstr ""
+
+#: single.php:24
+msgid "Next"
+msgstr ""
+
+#: template-parts/content/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content/content-none.php:24
+#. translators: 1: link to WP admin new post page.
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content/content-page.php:31
+#: template-parts/content/content-single.php:46
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content/content-single.php:35
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/header/header-one.php:18
+#: template-parts/header/header-two.php:19
+msgid "Top Bar"
+msgstr ""
+
+#: template-parts/header/header-one.php:30
+#: template-parts/header/header-one.php:65
+#: template-parts/header/header-social.php:10
+#: template-parts/header/header-two.php:31
+#: template-parts/header/header-two.php:67
+msgid "Social Links Menu"
+msgstr ""
+
+#: template-parts/navigation/navigation-primary.php:10
+msgid "Menu"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "FF Multipurpose"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://fireflythemes.com/themes/ff-multipurpose/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"FF Multipurpose is a free multipurpose WordPress Theme. This theme will "
+"suit all your needs for a multipurpose theme. You can make multiple designs "
+"using this single theme. It has all the features like breadcrumbs, "
+"associates logo to highlight your partners, featured content to showcase "
+"your content, portfolio to highlight your works, promotional headline to "
+"use as a call to action button for better UI, slider to highlight your "
+"images, team to show who is really behind your company, testimonial to show "
+"a list of your satisfied client feedback and what we do section to "
+"highlight the services you provide. Give your site an awesome and modern "
+"look with FF Multipurpose Theme with endless design possibilities. And "
+"don't even get us started with our Awesome Support Team. Visit "
+"https://fireflythemes.com/support for support, "
+"https://fireflythemes.com/documentation/ff-multipurpose for theme "
+"documentation and https://demo.fireflythemes.com/ff-multipurpose for demo."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "FireFly Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://fireflythemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Right Sidebar ( Content, Primary Sidebar )"
+msgstr ""
+
+#: comments.php:41
+#. translators: 1: comment count number, 2: title.
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:256
+#. Translators: If there are characters in your language that are not supported
+#. by Heebo, translate this to 'off'. Do not translate into your own language.
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:257
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/template-tags.php:94
+#. translators: used between list items, there is a space after the comma
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:267 inc/template-tags.php:269
+msgctxt "1: Year, 2: Site Title with home URL, 3: Privacy Policy Link"
+msgid "Copyright &copy; %1$s %2$s %3$s"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr ""

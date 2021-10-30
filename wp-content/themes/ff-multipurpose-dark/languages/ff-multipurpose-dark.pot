@@ -1,0 +1,71 @@
+# Copyright (C) {2021} Firefly Themes
+msgid ""
+msgstr ""
+"Project-Id-Version: FF Multipurpose Dark 1.0.1\n"
+"Report-Msgid-Bugs-To: https://fireflythemes.com/support/\n"
+"POT-Creation-Date: 2021-10-27 10:36:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Firefly Themes <info@fireflythemes.com>\n"
+"Language-Team: Firefly Themes <info@fireflythemes.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:55
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:57
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "FF Multipurpose Dark"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://fireflythemes.com/themes/ff-multipurpose-dark/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"FF Multipurpose Dark is our new Multipurpose child theme. FF Multipurpose, "
+"its parent theme, was appreciated by users so we made child theme FF "
+"Multipurpose Dark. It inherits functionality and feature of its parent "
+"theme with an attractive, dark design. We have made few design changes in "
+"sections like slider, featured content and what we do and added fourth "
+"widget area for footer making footer four columns. FF Multipurpose Dark is "
+"also a Multipurpose WordPress theme which can be used for any business. It "
+"has a dark bold look which will give a unique modern looking website. The "
+"theme has been optimized to load fast and is fully responsive, you can also "
+"import demo content with plugin one click demo importer. If you want more "
+"flexible functionality you can also upgrade to premium version of the "
+"theme. Visit https://fireflythemes.com/support for support, "
+"https://fireflythemes.com/documentation/ff-multipurpose-dark for theme "
+"documentation and https://demo.fireflythemes.com/ff-multipurpose-dark for "
+"demo."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "FireFly Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://fireflythemes.com/"
+msgstr ""

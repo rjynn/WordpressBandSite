@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-06 11:15+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions.php:36
+msgctxt "Allison font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:40
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:65
+msgid "--None--"
+msgstr ""
+
+#: inc/customizer.php:150
+msgid "Playlist"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Playlist Section options."
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Playlist Section Enable"
+msgstr ""
+
+#: inc/customizer.php:174
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:188
+msgid "Sub Title"
+msgstr ""
+
+#: inc/customizer.php:201 inc/customizer.php:360
+msgid "Bg Image"
+msgstr ""
+
+#: inc/customizer.php:214
+msgid "Featured Image"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Select Multiple Audios"
+msgstr ""
+
+#: inc/customizer.php:234
+msgid "Team"
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "Team Section options."
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Team Section Enable"
+msgstr ""
+
+#: inc/customizer.php:259 inc/customizer.php:372
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:273 inc/customizer.php:386
+msgid "Section Sub Title"
+msgstr ""
+
+#: inc/customizer.php:287 inc/customizer.php:400
+#, php-format
+msgid "Select Page %d"
+msgstr ""
+
+#: inc/customizer.php:299
+#, php-format
+msgid "Position %d"
+msgstr ""
+
+#: inc/customizer.php:314
+#, php-format
+msgid "Social Link %d"
+msgstr ""
+
+#: inc/customizer.php:315
+msgid "Add Social Link"
+msgstr ""
+
+#: inc/customizer.php:336
+msgid "Event"
+msgstr ""
+
+#: inc/customizer.php:337
+msgid "Event Section options."
+msgstr ""
+
+#: inc/customizer.php:348
+msgid "event Section Enable"
+msgstr ""
+
+#: inc/customizer.php:412
+#, php-format
+msgid "Event Location %d"
+msgstr ""
+
+#: inc/customizer.php:424
+#, php-format
+msgid "Event Date %d"
+msgstr ""
+
+#: inc/customizer.php:436
+#, php-format
+msgid "Event Time %d"
+msgstr ""
